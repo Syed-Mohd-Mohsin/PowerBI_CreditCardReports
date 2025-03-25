@@ -1,2 +1,2 @@
 # PowerBI_CreditCardReports
-I have designed an advanced and dynamic dashboard utilizing Power Pivot, seamlessly integrating data from multiple interconnected tables to deliver comprehensive insights and streamlined analysis.
+Analytics dashboard showcasing client demographics, financial insights, and week-on-week trends. Features visualized metrics, credit card income analysis, and actionable insights for smarter decision-making.
